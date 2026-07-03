@@ -1,9 +1,3 @@
-"""
-qr_generator.py
-Generates QR codes for URLs using the qrcode library.
-Saves them as PNG images in a local folder.
-"""
-
 import qrcode
 import os
 
