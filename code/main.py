@@ -1,9 +1,3 @@
-"""
-main.py
-QR Code Generator
-Terminal-based project using Python concepts from IITM BS lectures.
-"""
-
 import qr_generator
 import os
 
