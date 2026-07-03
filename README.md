@@ -1,10 +1,10 @@
-# 🔲 QR Code Generator
+# QR Code Generator
 
 A terminal-based QR code generator written in Python. Encode any URL or text into a PNG image and manage all your saved QR codes from the command line.
 
 ---
 
-## 📸 Demo
+## Demo
 
 ```
 =============================================
@@ -27,7 +27,7 @@ QR code saved: qr_codes/github_profile.png
 
 ---
 
-## ✨ Features
+## Features
 
 - Generate QR codes for any URL or plain text
 - Saves output as PNG images in a local `qr_codes/` folder
@@ -38,7 +38,7 @@ QR code saved: qr_codes/github_profile.png
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 qr-code-generator/
@@ -52,7 +52,7 @@ qr-code-generator/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 **Requirements:** Python 3.7+
 
@@ -70,7 +70,7 @@ python main.py
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 `qr_generator.py` uses the `qrcode` library to build each QR image with these settings:
 
